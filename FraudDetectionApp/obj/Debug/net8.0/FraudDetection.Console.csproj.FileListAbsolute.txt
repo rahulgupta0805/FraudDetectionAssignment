@@ -1,0 +1,14 @@
+C:\Users\sonal\source\repos\FraudDetectionApp\bin\Debug\net8.0\FraudDetection.Console.exe
+C:\Users\sonal\source\repos\FraudDetectionApp\bin\Debug\net8.0\FraudDetection.Console.deps.json
+C:\Users\sonal\source\repos\FraudDetectionApp\bin\Debug\net8.0\FraudDetection.Console.runtimeconfig.json
+C:\Users\sonal\source\repos\FraudDetectionApp\bin\Debug\net8.0\FraudDetection.Console.dll
+C:\Users\sonal\source\repos\FraudDetectionApp\bin\Debug\net8.0\FraudDetection.Console.pdb
+C:\Users\sonal\source\repos\FraudDetectionApp\obj\Debug\net8.0\FraudDetection.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sonal\source\repos\FraudDetectionApp\obj\Debug\net8.0\FraudDetection.Console.AssemblyInfoInputs.cache
+C:\Users\sonal\source\repos\FraudDetectionApp\obj\Debug\net8.0\FraudDetection.Console.AssemblyInfo.cs
+C:\Users\sonal\source\repos\FraudDetectionApp\obj\Debug\net8.0\FraudDetection.Console.csproj.CoreCompileInputs.cache
+C:\Users\sonal\source\repos\FraudDetectionApp\obj\Debug\net8.0\FraudDetection.Console.dll
+C:\Users\sonal\source\repos\FraudDetectionApp\obj\Debug\net8.0\refint\FraudDetection.Console.dll
+C:\Users\sonal\source\repos\FraudDetectionApp\obj\Debug\net8.0\FraudDetection.Console.pdb
+C:\Users\sonal\source\repos\FraudDetectionApp\obj\Debug\net8.0\FraudDetection.Console.genruntimeconfig.cache
+C:\Users\sonal\source\repos\FraudDetectionApp\obj\Debug\net8.0\ref\FraudDetection.Console.dll
